@@ -1,0 +1,19 @@
+{
+  "name": "com.hand.mobile.plugin.savephoto",
+  "version": "1.0.0",
+  "description": "Save Photo To System Album",
+  "cordova": {
+    "id": "com.hand.mobile.plugin.savephoto",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Hand Hls",
+  "license": "MIT"
+}
